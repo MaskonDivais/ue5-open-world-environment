@@ -22,10 +22,8 @@ For business inquiries or hiring opportunities, please contact:
 
 ## 🎬 Visual Showcase & Media
 
-> 📌 *Insert links to your YouTube video showcase, ArtStation gallery, or high-res MP4/GIF previews here.*
-
 * **Video Walkthrough:** [https://www.youtube.com/channel/UCq18qwZZpcIWktY4wN_Q73Q]
-* **ArtStation Portfolio:** [https://www.tiktok.com/@maskondivaus]
+* **ArtStation Portfolio:** []
 
 ---
 
