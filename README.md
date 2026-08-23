@@ -15,15 +15,14 @@ This project and its associated visual materials (renders, video showcases, 3D a
 * **Commercial use** (including game distribution, asset reselling, and commercial rendering) is strictly **PROHIBITED**.
 * **Attribution is REQUIRED**: Any showcase, share, or reference must include the original author's name and a link back to this repository.
 
-For business inquiries or hiring opportunities, please contact:
-📧 **doroshkevichgraf@gmail.com**
+For business inquiries or hiring opportunities, please contact: **doroshkevichgraf@gmail.com**
 
 ---
 
 ## 🎬 Visual Showcase & Media
 
 * **Video Walkthrough:** [https://www.youtube.com/channel/UCq18qwZZpcIWktY4wN_Q73Q]
-* **ArtStation Portfolio:** []
+* **ArtStation Portfolio:** [https://www.artstation.com/artwork/zzD4kq]
 
 ---
 
